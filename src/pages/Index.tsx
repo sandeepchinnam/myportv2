@@ -90,7 +90,7 @@ const projects = [
     title: "Cookies Chef",
     description: "A front-end platform for users to discover and explore cooking recipes.",
     tech: ["REACT.JS"],
-    link: "https://github.com/sandeepchinnam/COOKIES_CHEF",
+    link: "https://cookies-chef.vercel.app/",
   },
 ];
 
