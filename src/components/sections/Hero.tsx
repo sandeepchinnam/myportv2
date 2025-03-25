@@ -13,7 +13,7 @@ const Hero = () => (
           <span className="gradient-text">Chinnam Sandeep</span>
         </h1>
         <p className="text-2xl text-foreground/80 mb-8">
-          Full Stack Developer & UI/UX Designer
+          Frontend Developer & UI/UX Designer
         </p>
         <p className="max-w-2xl mx-auto text-lg text-foreground/60 mb-12">
           To obtain an engaging and fulfilling role where I can apply my expertise, 
